@@ -1,6 +1,6 @@
 # WebDonut Site Template
-[Make sure to join the discord server](https://discord.gg/aZrWjEpZUx)
-This is a site template I made.
+This is a site template I made.<br>Make sure to join my discord server.<br>[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/QRjusA2uAZ)
+
 
 ## Getting Started
 Installation
