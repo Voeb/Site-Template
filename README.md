@@ -1,5 +1,5 @@
 # WebDonut Site Template
-
+[Make sure to join the discord server](https://discord.gg/aZrWjEpZUx)
 This is a site template I made.
 
 ## Getting Started
