@@ -5,7 +5,7 @@ This is a site template I made in two days, I hope you like it.
 Installation
 ```
 git clone https://github.com/web-donut/WebDonut-Site-Template
-cd WebDonut-Site-Themplate
+cd WebDonut-Site-Template
 npm i
 ```
 To start the server do 
