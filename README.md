@@ -29,7 +29,6 @@ Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo, 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Discord
-
-You can join the discord server [here](https://discord.gg/aZrWjEpZUx)
+You can join the server by click on this button.
 
 [![Discord Server](/images/discord.png)](https://discord.gg/aZrWjEpZUx)
