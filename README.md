@@ -22,7 +22,7 @@ Projects page
 ![Preview of Site](/images/image2.png)
 
 Contact page
-![Preview of Site](/images/image2.png)
+![Preview of Site](/images/image3.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
