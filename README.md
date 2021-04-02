@@ -1,6 +1,5 @@
 # WebDonut Site Template
-This is a site template I made.<br>Make sure to join my discord server.<br>[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/QRjusA2uAZ)
-
+This is a site template I made in two days, I hope you like it.
 
 ## Getting Started
 Installation
@@ -17,14 +16,17 @@ node .
 ## Preview
 Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo, or check out these screenshots.
 
-Home page
+### Home page
 ![Preview of Site](/images/image1.png)
 
-Projects page
+### Projects page
 ![Preview of Site](/images/image2.png)
 
-Contact page
+### Contact page
 ![Preview of Site](/images/image3.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Discord
+<br>Make sure to join the discord server.<br>[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/QRjusA2uAZ)
