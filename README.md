@@ -29,4 +29,5 @@ Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo, 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Discord
-<br>Make sure to join the discord server.<br>[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/QRjusA2uAZ)
+
+Make sure to join the discord server.<br><br>[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/QRjusA2uAZ)
