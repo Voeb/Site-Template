@@ -32,4 +32,4 @@ Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo, 
 
 You can join the discord server [here](https://discord.gg/aZrWjEpZUx)
 
-[![Discord Server](https://img.shields.io/discord/803527976670855169?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/aZrWjEpZUx)
+[![Discord Server](/images/discord.png)](https://discord.gg/aZrWjEpZUx)
