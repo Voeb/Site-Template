@@ -14,7 +14,10 @@ To start the server do
 node .
 ```
 
-## Images
+## Preview
+Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo.
+Or check out these screenshots.
+
 Home page
 ![Preview of Site](/images/image1.png)
 
