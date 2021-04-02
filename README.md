@@ -1,6 +1,6 @@
-# WebDonut Site Themplate
+# WebDonut Site Template
 
-This is a site themplate I made.
+This is a site template I made.
 
 ## Getting Started
 Installation
