@@ -10,7 +10,9 @@ cd WebDonut-Site-Themplate
 npm i
 ```
 To start the server do 
-``node .``
+```
+node .
+```
 
 ## Images
 Home page
