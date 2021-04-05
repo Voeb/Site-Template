@@ -10,5 +10,5 @@ app.use(express.static('site'));
 app.get('/', (req, res) => {
   res.sendFile('site/index.html');
 });
-
-app.listen(5000, () => console.log('Website Online\nlocalhost:5000'));
+var cyan = "\x1b[36m%s\x1b[0m"
+app.listen(5000, () => console.log(cyan, 'Website Online\nlocalhost:5000'));

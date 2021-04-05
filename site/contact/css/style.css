@@ -8,7 +8,8 @@ html {
     margin: 0;
     padding: 0;
     position: fixed;
-    width: 100%;
+    width: 100vw;
+    height: 100vw;
 }
 
 #thing {
@@ -59,7 +60,7 @@ html {
 }
 
 #content {
-    width: 1000px;
+    width: 100%;
     margin: 0 auto;
     position: relative;
     text-align: center;
@@ -67,7 +68,7 @@ html {
 
 /* content */
 #container {
-    top: 50%;
+    top: 100vw;
 }
 
 #contentTitle {
@@ -75,9 +76,12 @@ html {
 }
 
 #textStuff {
-    width: 1000px;
+    width: 50vw;
     font-size: 36px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 #contactIcons {
     padding-top: 20px;
 }
@@ -85,7 +89,7 @@ html {
 #mail {
     float: left;
     height: 130px;
-
+    padding-left: 10px;
 }
 #twitter {
     height: 130px;
@@ -94,9 +98,11 @@ html {
 #facebook {
     height: 130px;
     float: right;
+    padding-right: 10px;
 }
 /* footer */
 footer {
     bottom: 0;
     position: fixed;
 }
+
