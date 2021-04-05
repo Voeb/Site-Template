@@ -1,5 +1,5 @@
 # WebDonut Site Template
-This is a site template I made in two days, I hope you like it. The site doesn't yet work on phone.
+This is a site template I made in two days, I hope you like it. The site isn't yet supported on mobile, but im working on that.
 
 ## Getting Started
 Installation
