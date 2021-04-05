@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <title>WebDonut</title>
+    <head>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <div id="particles-js"></div>
+        <div id="thing">
+
+        </div>
+        <div id="navBar">
+            <h1 id="title" >WebDonut</h1>
+            <div id="navBtns">
+                <button onclick="document.location.href=this.getAttribute('href');" href="../" id="aboutmeBtn" class="navBtn">ABOUT ME</button>
+                <button onclick="document.location.href=this.getAttribute('href');" href="../projects" id="projectsBtn" class="navBtn">PROJECTS</button>
+                <button id="contactBtn" class="navBtn">CONTACT</button>
+            </div>
+        </div>
+        <div id="content">
+            <div id="container">
+                <div id="contentTitle">
+                    <p>CONTACT</p>
+                </div>
+                <div id="textStuff">
+                    <p>If you want to contact me, click one of the icons below.</p>
+                    <div id="contactIcons">
+                        <input type="image" id="mail" src="./images/Mail.png">
+                        <input type="image" id="twitter" src="./images/Twitter.png">
+                        <input type="image" id="facebook" src="./images/Facebook.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer><p>© 2021 WebDonut</p></footer>
+        <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+        <script src="./js/script.js"></script>
+    </body>
+</html>
