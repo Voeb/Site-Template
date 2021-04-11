@@ -14,7 +14,7 @@ node .
 ```
 
 ## Preview
-Click [here](https://joeptm.github.io/WebDonut-Site-Template/site/) for a demo, or check out these screenshots.
+Click [here](https://web-donut.github.io/WebDonut-Site-Template/site/) for a demo, or check out these screenshots.
 
 ### Home page
 ![Preview of Site](/images/image1.png)
