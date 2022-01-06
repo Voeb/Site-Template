@@ -1,5 +1,4 @@
 # Site Template
-This is a site template I made in two days, I hope you like it.
 
 ## Getting Started
 Installation
