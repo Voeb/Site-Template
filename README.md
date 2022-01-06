@@ -27,6 +27,3 @@ Click [here](https://web-donut.github.io/WebDonut-Site-Template/site/) for a dem
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Discord
-[![Discord Server](/images/discord.png)](https://discord.gg/aZrWjEpZUx)
